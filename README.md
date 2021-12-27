@@ -3,9 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
 ### 🌱 I’m currently learning ...
-- Cloud (Azure, AWS)
+- Cloud/MLOps (Azure, AWS)
 - Image Recognition/Clustering (PyTorch)
-- MLOps
+- Bayesian Statistics (Stan)
 
 
 ### 🔭 I’m currently working on ...
