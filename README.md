@@ -26,3 +26,4 @@
 
 ### 📧 Contact 
 - Email: dk02315@gmail.com
+- LinkedIn: https://www.linkedin.com/in/yeonghyeon-ko-1ba203172/
