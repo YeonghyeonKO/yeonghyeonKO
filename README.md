@@ -21,7 +21,7 @@
 #### Framework<br>
 - Strong: ```Flutter``` ```Django```<br/>
 - Intermediate: ```PyTorch``` ```React``` <br/>
-- Knowledge: ```Stan``` <br/>
+- Knowledge: ```Stan``` ```Keras``` <br/>
 
 
 ### 📧 Contact 
