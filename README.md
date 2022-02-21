@@ -6,6 +6,7 @@
 - Cloud/MLOps (Azure, AWS, Kubernetes)
 - Image Recognition/Clustering (PyTorch)
 - Bayesian Statistics (Stan)
+- Front-end Frameworks (Flutter, React with Gatsby)
 
 
 ### 🔭 I’m currently working on ...
@@ -20,7 +21,7 @@
 
 #### Framework<br>
 - Strong: ```Flutter``` ```Django```<br/>
-- Intermediate: ```PyTorch``` ```React``` <br/>
+- Intermediate: ```PyTorch``` ```React``` ```Gatsby``` <br/>
 - Knowledge: ```Stan``` ```Keras``` <br/>
 
 
