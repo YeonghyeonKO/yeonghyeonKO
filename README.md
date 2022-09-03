@@ -3,7 +3,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
 ### 🌱 I’m currently learning ...
-- Cloud/MLOps (Azure, AWS, Kubernetes)
+- Cloud/MLOps (Azure, AWS)
+- Kubernetes/Docker
+- Machine Learning (Pandas, Scikit-learn)
 - Image Recognition/Clustering (PyTorch)
 - Bayesian Statistics (Stan)
 - Front-end Frameworks (Flutter, React)
@@ -11,7 +13,7 @@
 
 ### 🔭 I’m currently working on ...
 - Cloud Architect @ SK hynix
-- Mobile Developer & PM of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
+- Mobile Developer & PO of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
 
 
 ### 📚 Skills
@@ -20,7 +22,7 @@
 - Intermediate: ```JavaScript``` ```TypeScript``` <br/>
 
 #### Framework<br>
-- Strong: ```Flutter``` ```Django```<br/>
+- Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas```<br/>
 - Intermediate: ```PyTorch``` ```React``` <br/>
 - Knowledge: ```Stan``` ```Keras``` <br/>
 
