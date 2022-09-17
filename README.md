@@ -4,11 +4,11 @@
 
 ### 🌱 I’m currently learning ...
 - Cloud/MLOps (Azure, AWS)
+- Cross Platform (Flutter) based on iOS knowledge
 - Kubernetes/Docker
 - Machine Learning (Pandas, Scikit-learn)
 - Image Recognition/Clustering (PyTorch)
 - Bayesian Statistics (Stan)
-- Front-end Frameworks (Flutter, React)
 
 
 ### 🔭 I’m currently working on ...
@@ -19,7 +19,7 @@
 ### 📚 Skills
 #### Language<br>
 - Strong: ```Dart``` ```R``` ```Python```<br/>
-- Intermediate: ```JavaScript``` ```TypeScript``` <br/>
+- Intermediate: ```Swift``` ```JavaScript``` ```TypeScript``` <br/>
 
 #### Framework<br>
 - Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas```<br/>
