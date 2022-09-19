@@ -18,11 +18,11 @@
 
 ### 📚 Skills
 #### Language<br>
-- Strong: ```Dart``` ```R``` ```Python```<br/>
-- Intermediate: ```Swift``` ```JavaScript``` ```TypeScript``` <br/>
+- Strong: ```Dart``` ```Python``` ```R```<br/>
+- Intermediate: ```Swift``` ```Kotlin``` ```TypeScript``` <br/>
 
 #### Framework<br>
-- Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas```<br/>
+- Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy```<br/>
 - Intermediate: ```PyTorch``` ```React``` <br/>
 - Knowledge: ```Stan``` ```Keras``` <br/>
 
