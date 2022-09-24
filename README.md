@@ -3,7 +3,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
 ### 🌱 I’m currently learning ...
-- Cloud/MLOps (Azure, AWS)
+- Cloud/Infra Architecture (Azure, AWS)
 - Cross Platform (Flutter) based on iOS knowledge
 - Kubernetes/Docker
 - Machine Learning (Pandas, Scikit-learn)
