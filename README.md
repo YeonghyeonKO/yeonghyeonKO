@@ -4,6 +4,7 @@
 
 ### 🌱 I’m currently learning ...
 - Cloud/Infra Architecture (Azure, AWS)
+- Server Development (Spring based on Kotlin)
 - Cross Platform (Flutter) based on iOS knowledge
 - Kubernetes/Docker
 - Machine Learning (Pandas, Scikit-learn)
@@ -13,6 +14,7 @@
 
 ### 🔭 I’m currently working on ...
 - Cloud Architect @ SK hynix
+- DevOps/AWS Infra Administrator @ WaffleStudio
 - Mobile Developer & PO of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
 
 
@@ -23,7 +25,7 @@
 
 #### Framework<br>
 - Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy```<br/>
-- Intermediate: ```PyTorch``` ```React``` <br/>
+- Intermediate: ```PyTorch``` ```React``` ```Spring```<br/>
 - Knowledge: ```Stan``` ```Keras``` <br/>
 
 
