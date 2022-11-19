@@ -4,9 +4,9 @@
 
 ### 🌱 I’m currently learning ...
 - Cloud/Infra Architecture (Azure, AWS)
+- Kubernetes/Docker/GitOps(ArgoCD)
 - Server Development (Spring based on Kotlin)
 - Cross Platform (Flutter) based on iOS knowledge
-- Kubernetes/Docker
 - Machine Learning (Pandas, Scikit-learn)
 - Image Recognition/Clustering (PyTorch)
 - Bayesian Statistics (Stan)
