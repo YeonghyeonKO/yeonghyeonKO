@@ -2,6 +2,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
+### 🔭 I’m currently working on ...
+- Cloud Architect @ SK hynix
+- DevOps/AWS Infra Administrator @ WaffleStudio
+- Mobile Developer & PO of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
+
+
 ### 🌱 I’m currently learning ...
 - Cloud/Infra Architecture (Azure, AWS)
 - Kubernetes/Docker/GitOps(ArgoCD)
@@ -10,12 +16,6 @@
 - Machine Learning (Pandas, Scikit-learn)
 - Image Recognition/Clustering (PyTorch)
 - Bayesian Statistics (Stan)
-
-
-### 🔭 I’m currently working on ...
-- Cloud Architect @ SK hynix
-- DevOps/AWS Infra Administrator @ WaffleStudio
-- Mobile Developer & PO of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
 
 
 ### 📚 Skills
@@ -31,4 +31,5 @@
 
 ### 📧 Contact 
 - Email: dk02315@gmail.com
+- blog: https://newstellar.tistory.com/
 - LinkedIn: https://www.linkedin.com/in/yeonghyeon-ko-1ba203172/
