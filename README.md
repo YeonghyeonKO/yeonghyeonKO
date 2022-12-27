@@ -10,7 +10,7 @@
 
 ### 🌱 I’m currently learning ...
 - Cloud/Infra Architecture (Azure, AWS)
-- Kubernetes/Docker/GitOps(ArgoCD)
+- Kubernetes+Istio/GitOps+Observability
 - Server Development (Spring based on Kotlin)
 - Cross Platform (Flutter) based on iOS knowledge
 - Machine Learning (Pandas, Scikit-learn)
