@@ -5,7 +5,6 @@
 ### 🔭 I’m currently working on ...
 - Cloud Architect @ SK hynix
 - DevOps/AWS Infra Administrator @ WaffleStudio
-- Mobile Developer & PO of [GUAM](https://github.com/wafflestudio/guam-community-client) @ WaffleStudio
 
 
 ### 🌱 I’m currently learning ...
@@ -13,9 +12,6 @@
 - Kubernetes+Istio/GitOps+Observability
 - Server Development (Spring based on Kotlin)
 - Cross Platform (Flutter) based on iOS knowledge
-- Machine Learning (Pandas, Scikit-learn)
-- Image Recognition/Clustering (PyTorch)
-- Bayesian Statistics (Stan)
 
 
 ### 📚 Skills
@@ -26,7 +22,7 @@
 #### Framework<br>
 - Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy```<br/>
 - Intermediate: ```PyTorch``` ```React``` ```Spring```<br/>
-- Knowledge: ```Stan``` ```Keras``` <br/>
+- Knowledge: ```Stan``` <br/>
 
 
 ### 📧 Contact 
