@@ -8,20 +8,20 @@
 
 
 ### 🌱 I’m currently learning ...
-- Cloud/Infra Architecture (Azure, AWS)
-- Kubernetes+Istio/GitOps+Observability
-- Server Development (Spring based on Kotlin)
-- Cross Platform (Flutter) based on iOS knowledge
+- Cloud/Infra Architecture (Azure, AWS, On-premise)
+- Kubernetes + Istio
+- Server Development (Spring with Java)
+- Cross Platform (Flutter)
 
 
 ### 📚 Skills
 #### Language<br>
-- Strong: ```Dart``` ```Python``` ```R```<br/>
-- Intermediate: ```Swift``` ```Kotlin``` ```TypeScript``` <br/>
+- Strong: ```Java``` ```Dart``` ```Python``` ```R```<br/>
+- Intermediate: ```Kotlin``` ```JavaScrypt``` <br/>
 
 #### Framework<br>
-- Strong: ```Flutter``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy```<br/>
-- Intermediate: ```PyTorch``` ```React``` ```Spring```<br/>
+- Strong: ```Flutter``` ```React``` ```Spring``` <br/>
+- Intermediate: ```PyTorch``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy``` <br/>
 - Knowledge: ```Stan``` <br/>
 
 
