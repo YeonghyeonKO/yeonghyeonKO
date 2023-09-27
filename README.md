@@ -3,14 +3,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
 ### 🔭 I’m currently working on ...
-- Cloud Architect @ SK hynix
-- DevOps/AWS Infra Administrator @ WaffleStudio
+- DevOps/Server Engineer @ SK hynix
 
 
 ### 🌱 I’m currently learning ...
 - Cloud/Infra Architecture (Azure, AWS, On-premise)
+- Distributed System (Elasticsearch, Kafka, Redis)
 - Kubernetes + Istio
-- Server Development (Spring with Java)
+- Server Development (Spring with Java/Kotlin)
 - Cross Platform (Flutter)
 
 
@@ -21,7 +21,7 @@
 
 #### Framework<br>
 - Strong: ```Flutter``` ```React``` ```Spring``` <br/>
-- Intermediate: ```PyTorch``` ```Django``` ```scikit-learn``` ```pandas``` ```scipy``` <br/>
+- Intermediate: ```FastAPI``` ```Django``` ```scikit-learn``` <br/>
 - Knowledge: ```Stan``` <br/>
 
 
