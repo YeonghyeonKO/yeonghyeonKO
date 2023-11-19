@@ -3,13 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
 
 ### 🔭 I’m currently working on ...
-- DevOps/Server Engineer @ SK hynix
+- Data/Server Engineer @ SK hynix
 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently working about ...
 - Cloud/Infra Architecture (Azure, AWS, On-premise)
-- Distributed System (Elasticsearch, Kafka, Redis)
-- Kubernetes + Istio
+- Distributed System (Elasticsearch, Kafka, MongoDB)
+- Kubernetes
 - Server Development (Spring with Java/Kotlin)
 - Cross Platform (Flutter)
 
