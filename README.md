@@ -1,7 +1,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeonghyeonKO&theme=chalk&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonghyeonKO&layout=compact&langs_count=8&theme=dracula)](https://github.com/yeonghyeonKO)
-
 ### 🔭 I’m currently working on ...
 - Data/Server Engineer @ SK hynix
 
@@ -16,13 +14,13 @@
 
 ### 📚 Skills
 #### Language<br>
-- Strong: ```Java``` ```Dart``` ```Python``` ```R```<br/>
+- Strong: ```Java``` ```Dart``` ```Python``` ```R``` <br/>
 - Intermediate: ```Kotlin``` ```JavaScrypt``` <br/>
 
 #### Framework<br>
-- Strong: ```Flutter``` ```React``` ```Spring``` <br/>
+- Strong: ```Flutter``` ```Spring``` <br/>
 - Intermediate: ```FastAPI``` ```Django``` ```scikit-learn``` <br/>
-- Knowledge: ```Stan``` <br/>
+- Knowledge: ```Stan``` ```React``` <br/>
 
 
 ### 📧 Contact 
