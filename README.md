@@ -5,10 +5,11 @@
 
 
 ### 🌱 I’m currently working about ...
-- Cloud/Infra Architecture (Azure, AWS, On-premise)
+- Cloud/Infra Architecture (AWS, On-premise)
 - Distributed System (Elasticsearch, Kafka, MongoDB)
+- LLM Pipeline (RRF, vectorDB)
 - Kubernetes
-- Server Development (Spring with Java/Kotlin)
+- Server Development (Spring with Java)
 - Cross Platform (Flutter)
 
 
