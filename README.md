@@ -1,10 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeonghyeonKO&theme=chalk&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 🔭 I’m currently working on ...
 - AI/Data Engineer @ SK hynix
 
 
-### 🌱 I’m currently working about ...
+### 🌱 I’m working about ...
 - Cloud/Infra Architecture (AWS, On-premise)
 - Distributed System (Elasticsearch, OpenSearch, Kafka, MongoDB)
 - RAG Pipeline (Crawling, vectorDB)
