@@ -5,16 +5,14 @@
 ### 🌱 I’m working about ...
 - Cloud/Infra Architecture (AWS, On-premise)
 - Distributed System (Elasticsearch, OpenSearch, Kafka, MongoDB)
-- RAG Pipeline (Crawling, vectorDB)
-- Kubernetes
-- Server Development (Spring with Java)
-- Cross Platform (Flutter)
+- RAG Pipeline (especially, Chunking & VectorDB)
+- Kubernetes (+ K8s Operator Pattern)
 
 
 ### 📚 Skills
 #### Language<br>
-- Strong: ```Java``` ```Dart``` ```Python``` ```R``` <br/>
-- Intermediate: ```Kotlin``` ```JavaScrypt``` <br/>
+- Strong: ```Java``` ```Dart``` ```Python``` <br/>
+- Intermediate: ```Kotlin``` ```JavaScrypt``` ```R```  <br/>
 
 #### Framework<br>
 - Strong: ```Flutter``` ```Spring``` <br/>
