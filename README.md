@@ -4,6 +4,7 @@
 
 ### 🌱 I’m working about ...
 - Cloud/Infra Architecture (AWS, On-premise)
+- AI Platform Engineering (Langflow + Phoenix)
 - Distributed System (Elasticsearch, OpenSearch, Kafka, MongoDB)
 - RAG Pipeline (especially, Chunking & VectorDB)
 - Kubernetes (+ K8s Operator Pattern)
