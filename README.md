@@ -1,5 +1,5 @@
 ### 🔭 I’m currently working on ...
-- AI/Data Engineer @ SK hynix
+- AI/Data Engineer 
 
 
 ### 🌱 I’m working about ...
